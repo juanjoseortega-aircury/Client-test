@@ -5,8 +5,8 @@ comments: yes
 permalink: /about/
 ---
 
-
-### Freshman21 is a Jekyll theme.
+<!--aa -->
+<!--### Freshman21 is a Jekyll theme.-->
 
 A tribute to Twenty Twelve and Twenty eleven.
 
